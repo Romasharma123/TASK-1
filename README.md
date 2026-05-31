@@ -1,2 +1,3 @@
 # TASK-1
 Data Cleaning and Preprocessing
+The Medical Appointment No Shows dataset was cleaned and prepared for analysis using Excel/Python. Missing values and duplicate records were checked, and none were found. Text fields were reviewed and standardized where necessary. Date columns (ScheduledDay and AppointmentDay) were converted to a consistent dd-mm-yyyy format. Column names were renamed using lowercase and underscores for consistency. Data types were validated, and date fields were converted to datetime format while ensuring numerical fields such as age were stored correctly. The cleaned dataset is now ready for exploratory data analysis and visualization.
